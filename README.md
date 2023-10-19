@@ -1,2 +1,2 @@
-# Object-Detection-using-OpenCV
+# Class Attaendance using OpenCV
 Basic Detection of the objects
