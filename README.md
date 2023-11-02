@@ -1,2 +1,2 @@
-# Class Attaendance using OpenCV
+# Face Detection using OpenCV
 Basic Detection of the objects
